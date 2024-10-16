@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![Midnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLMidnight)](https://github.com/anuraghazra/github-readme-stats)
+[![Midnight's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLMidnight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GLMidnight/GLMidnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
